@@ -1,0 +1,931 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+1 0 obj
+<<
+/F1 2 0 R /F2 3 0 R /F3 24 0 R
+>>
+endobj
+2 0 obj
+<<
+/BaseFont /Helvetica /Encoding /WinAnsiEncoding /Name /F1 /Subtype /Type1 /Type /Font
+>>
+endobj
+3 0 obj
+<<
+/BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding /Name /F2 /Subtype /Type1 /Type /Font
+>>
+endobj
+4 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 689.0236 0 ] /Rect [ 62.69291 614.0236 106.0229 626.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+5 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 689.0236 0 ] /Rect [ 527.0227 614.7736 532.5827 626.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+6 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 437.0236 0 ] /Rect [ 62.69291 596.0236 156.0629 608.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+7 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 437.0236 0 ] /Rect [ 527.0227 596.7736 532.5827 608.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+8 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 374.0236 0 ] /Rect [ 62.69291 578.0236 132.7129 590.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+9 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 374.0236 0 ] /Rect [ 527.0227 578.7736 532.5827 590.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+10 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 269.0236 0 ] /Rect [ 62.69291 560.0236 120.4929 572.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+11 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 25 0 R /XYZ 62.69291 269.0236 0 ] /Rect [ 527.0227 560.7736 532.5827 572.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+12 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 26 0 R /XYZ 62.69291 645.0236 0 ] /Rect [ 62.69291 542.0236 149.9629 554.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+13 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 26 0 R /XYZ 62.69291 645.0236 0 ] /Rect [ 527.0227 542.7736 532.5827 554.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+14 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 26 0 R /XYZ 62.69291 594.0236 0 ] /Rect [ 82.69291 524.0236 112.1429 536.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+15 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 26 0 R /XYZ 62.69291 594.0236 0 ] /Rect [ 527.0227 524.7736 532.5827 536.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+16 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 26 0 R /XYZ 62.69291 546.0236 0 ] /Rect [ 82.69291 506.0236 111.0329 518.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+17 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 26 0 R /XYZ 62.69291 546.0236 0 ] /Rect [ 527.0227 506.7736 532.5827 518.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+18 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 26 0 R /XYZ 62.69291 486.0236 0 ] /Rect [ 62.69291 488.0236 121.0329 500.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+19 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 26 0 R /XYZ 62.69291 486.0236 0 ] /Rect [ 527.0227 488.7736 532.5827 500.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+20 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 26 0 R /XYZ 62.69291 387.0236 0 ] /Rect [ 62.69291 470.0236 149.9529 482.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+21 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 26 0 R /XYZ 62.69291 387.0236 0 ] /Rect [ 527.0227 470.7736 532.5827 482.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+22 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 26 0 R /XYZ 62.69291 282.0236 0 ] /Rect [ 62.69291 452.0236 113.2729 464.0236 ] /Subtype /Link /Type /Annot
+>>
+endobj
+23 0 obj
+<<
+/Border [ 0 0 0 ] /Contents () /Dest [ 26 0 R /XYZ 62.69291 282.0236 0 ] /Rect [ 527.0227 452.7736 532.5827 464.7736 ] /Subtype /Link /Type /Annot
+>>
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding /Name /F3 /Subtype /Type1 /Type /Font
+>>
+endobj
+25 0 obj
+<<
+/Annots [ 4 0 R 5 0 R 6 0 R 7 0 R 8 0 R 9 0 R 10 0 R 11 0 R 12 0 R 13 0 R 
+  14 0 R 15 0 R 16 0 R 17 0 R 18 0 R 19 0 R 20 0 R 21 0 R 22 0 R 23 0 R ] /Contents 41 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 40 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 
+  /Trans <<
+
+>> /Type /Page
+>>
+endobj
+26 0 obj
+<<
+/Contents 42 0 R /MediaBox [ 0 0 595.2756 841.8898 ] /Parent 40 0 R /Resources <<
+/Font 1 0 R /ProcSet [ /PDF /Text /ImageB /ImageC /ImageI ]
+>> /Rotate 0 /Trans <<
+
+>> 
+  /Type /Page
+>>
+endobj
+27 0 obj
+<<
+/Outlines 29 0 R /PageLabels 43 0 R /PageMode /UseNone /Pages 40 0 R /Type /Catalog
+>>
+endobj
+28 0 obj
+<<
+/Author (Peter Tse) /CreationDate (D:20180303230723+05'00') /Creator (\(unspecified\)) /Keywords () /ModDate (D:20180303230723+05'00') /Producer (ReportLab PDF Library - www.reportlab.com) 
+  /Subject (\(unspecified\)) /Title (Play BlackJack!) /Trapped /False
+>>
+endobj
+29 0 obj
+<<
+/Count 11 /First 30 0 R /Last 39 0 R /Type /Outlines
+>>
+endobj
+30 0 obj
+<<
+/Dest [ 25 0 R /XYZ 62.69291 689.0236 0 ] /Next 31 0 R /Parent 29 0 R /Title (Contents)
+>>
+endobj
+31 0 obj
+<<
+/Dest [ 25 0 R /XYZ 62.69291 437.0236 0 ] /Next 32 0 R /Parent 29 0 R /Prev 30 0 R /Title (What is BlackJack?)
+>>
+endobj
+32 0 obj
+<<
+/Dest [ 25 0 R /XYZ 62.69291 374.0236 0 ] /Next 33 0 R /Parent 29 0 R /Prev 31 0 R /Title (Deck of Cards.)
+>>
+endobj
+33 0 obj
+<<
+/Dest [ 25 0 R /XYZ 62.69291 269.0236 0 ] /Next 34 0 R /Parent 29 0 R /Prev 32 0 R /Title (Cards Value)
+>>
+endobj
+34 0 obj
+<<
+/Count 2 /Dest [ 26 0 R /XYZ 62.69291 645.0236 0 ] /First 35 0 R /Last 36 0 R /Next 37 0 R /Parent 29 0 R 
+  /Prev 33 0 R /Title (Playing BlackJack)
+>>
+endobj
+35 0 obj
+<<
+/Dest [ 26 0 R /XYZ 62.69291 594.0236 0 ] /Next 36 0 R /Parent 34 0 R /Title (Dealer)
+>>
+endobj
+36 0 obj
+<<
+/Dest [ 26 0 R /XYZ 62.69291 546.0236 0 ] /Parent 34 0 R /Prev 35 0 R /Title (Player)
+>>
+endobj
+37 0 obj
+<<
+/Dest [ 26 0 R /XYZ 62.69291 486.0236 0 ] /Next 38 0 R /Parent 29 0 R /Prev 34 0 R /Title (HIT or STAY)
+>>
+endobj
+38 0 obj
+<<
+/Dest [ 26 0 R /XYZ 62.69291 387.0236 0 ] /Next 39 0 R /Parent 29 0 R /Prev 37 0 R /Title (Tips on BlackJack)
+>>
+endobj
+39 0 obj
+<<
+/Dest [ 26 0 R /XYZ 62.69291 282.0236 0 ] /Parent 29 0 R /Prev 38 0 R /Title (Disclaimer)
+>>
+endobj
+40 0 obj
+<<
+/Count 2 /Kids [ 25 0 R 26 0 R ] /Type /Pages
+>>
+endobj
+41 0 obj
+<<
+/Length 7073
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 741.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 4 Tm /F2 20 Tf 24 TL 159.3449 0 Td (Play BlackJack!) Tj T* -159.3449 0 Td ET
+Q
+Q
+q
+1 0 0 1 62.69291 716.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 36.93937 0 Td (Author:) Tj T* -36.93937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Peter Tse) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 701.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 48.03937 0 Td (Date:) Tj T* -48.03937 0 Td ET
+Q
+Q
+q
+1 0 0 1 91.03937 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (March 3, 2017) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 668.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 635.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 449.0236 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 0 165 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Contents) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 165 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 147 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (What is BlackJack?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 147 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 129 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Deck of Cards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 129 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 111 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Cards Value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 111 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (1) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 93 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Playing BlackJack) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 93 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 75 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Dealer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 75 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 57 cm
+q
+BT 1 0 0 1 20 2 Tm 12 TL /F1 10 Tf 0 0 .501961 rg (Player) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 57 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 39 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (HIT or STAY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 39 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 21 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Tips on BlackJack) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 21 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+1 0 0 1 0 3 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 .501961 rg (Disclaimer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 397.8898 3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL 66.44 0 Td (2) Tj T* -66.44 0 Td ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 62.69291 416.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (What is BlackJack?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 386.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.094488 Tw 12 TL /F2 10 Tf 0 0 0 rg (BlackJack) Tj /F1 10 Tf ( is a card game where the objective of the game is to get your cards as close to 21 without) Tj T* 0 Tw (going over and beating your opponent's cards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 353.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Deck of Cards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 335.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (When you opened a brand new deck of playing cards, there are 54 cards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 281.0236 cm
+q
+BT 1 0 0 1 0 38 Tm 1.768409 Tw 12 TL /F1 10 Tf 0 0 0 rg (There are 2 ) Tj /F3 10 Tf (Jokers) Tj /F1 10 Tf ( which will be discarded as we do not use Jokers in the game of BlackJack. The) Tj T* 0 Tw 1.301235 Tw (remaining 52 cards are divided into 4 suits. The suits are ) Tj /F3 10 Tf (Spades) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (Hearts) Tj /F1 10 Tf (, ) Tj /F3 10 Tf (Clubs) Tj /F1 10 Tf ( and ) Tj /F3 10 Tf (Diamonds) Tj /F1 10 Tf ( which) Tj T* 0 Tw .28499 Tw (does not change the value of the cards in BlackJack. Each of the suits has 13 cards. A, 2, 3, 4, 5, 6, 7, 8,) Tj T* 0 Tw (9, 10, J, Q, K.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 248.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Cards Value) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 236.0236 cm
+Q
+q
+1 0 0 1 62.69291 92.02362 cm
+1 1 1 rg
+n 0 144 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 126 469.8898 -18 re f*
+1 1 1 rg
+n 0 108 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -18 re f*
+1 1 1 rg
+n 0 72 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 469.8898 -18 re f*
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -18 re f*
+.960784 .960784 .862745 rg
+n 0 144 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 129 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 158.869 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 65.2695 0 Td (CARD) Tj T* -65.2695 0 Td ET
+Q
+Q
+q
+1 0 0 1 176.869 129 cm
+q
+.960784 .960784 .862745 rg
+n 0 0 287.0208 12 re f*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL 127.1154 0 Td (VALUE) Tj T* -127.1154 0 Td ET
+Q
+Q
+0 0 0 rg
+q
+1 0 0 1 6 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (A) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.869 111 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (1 or 11) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.869 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (2) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.869 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (3) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.869 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (4) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.869 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (5) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.869 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (6) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (7) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.869 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (7) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 0 m 469.8898 0 l S
+n 0 126 m 469.8898 126 l S
+n 0 108 m 469.8898 108 l S
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 170.869 0 m 170.869 144 l S
+n 0 144 m 469.8898 144 l S
+n 0 0 m 0 144 l S
+n 469.8898 0 m 469.8898 144 l S
+Q
+Q
+ 
+endstream
+endobj
+42 0 obj
+<<
+/Length 4738
+>>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 62.69291 657.0236 cm
+1 1 1 rg
+n 0 108 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 90 469.8898 -18 re f*
+1 1 1 rg
+n 0 72 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 54 469.8898 -18 re f*
+1 1 1 rg
+n 0 36 469.8898 -18 re f*
+.878431 .878431 .878431 rg
+n 0 18 469.8898 -18 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.869 93 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.869 75 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (9) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.869 57 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (J) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.869 39 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (Q) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.869 21 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
+Q
+Q
+q
+1 0 0 1 6 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (K) Tj T* ET
+Q
+Q
+q
+1 0 0 1 176.869 3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (10) Tj T* ET
+Q
+Q
+q
+1 J
+1 j
+0 0 0 RG
+.25 w
+n 0 108 m 469.8898 108 l S
+n 0 90 m 469.8898 90 l S
+n 0 72 m 469.8898 72 l S
+n 0 54 m 469.8898 54 l S
+n 0 36 m 469.8898 36 l S
+n 0 18 m 469.8898 18 l S
+n 170.869 0 m 170.869 108 l S
+n 0 0 m 0 108 l S
+n 469.8898 0 m 469.8898 108 l S
+n 0 0 m 469.8898 0 l S
+Q
+Q
+q
+1 0 0 1 62.69291 657.0236 cm
+Q
+q
+1 0 0 1 62.69291 624.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Playing BlackJack) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 606.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (To play BlackJack, you will need at least 2 players. One is the ) Tj /F3 10 Tf (Dealer) Tj /F1 10 Tf ( while the other player is the ) Tj /F3 10 Tf (Player) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 576.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Dealer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 558.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The dealer will deal one card to each player until each player and the dealer has 2 cards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 528.0236 cm
+q
+BT 1 0 0 1 0 3 Tm 18 TL /F2 15 Tf 0 0 0 rg (Player) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 498.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .396511 Tw 12 TL /F1 10 Tf 0 0 0 rg (The player will look at the card ad add the sum of the 2 cards and determine if they want to ) Tj /F3 10 Tf (HIT) Tj /F1 10 Tf ( or ) Tj /F3 10 Tf (STAY) Tj /F1 10 Tf  T* 0 Tw (based on the value of the cards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 465.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (HIT or STAY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 447.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (To get to 21 without going over you can ) Tj /F2 10 Tf (HIT) Tj /F1 10 Tf ( or ) Tj /F2 10 Tf (STAY) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 417.0236 cm
+q
+BT 1 0 0 1 0 14 Tm .274751 Tw 12 TL /F1 10 Tf 0 0 0 rg (To ) Tj /F2 10 Tf (HIT) Tj /F1 10 Tf (, you will need to tap the table and the dealer will give you another card. You can request as many) Tj T* 0 Tw (cards as you want as long as you don't bust.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 399.0236 cm
+q
+BT 1 0 0 1 0 2 Tm 12 TL /F1 10 Tf 0 0 0 rg (To ) Tj /F2 10 Tf (STAY) Tj /F1 10 Tf (, you will simple wave your hand on top of your cards stating you don't want any cards.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 366.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Tips on BlackJack) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 336.0236 cm
+q
+BT 1 0 0 1 0 14 Tm 1.371098 Tw 12 TL /F1 10 Tf 0 0 0 rg (The dealer will always have one card facing up. Therefore you can use the card and determine if you) Tj T* 0 Tw (should ) Tj /F2 10 Tf (HIT) Tj /F1 10 Tf ( or ) Tj /F2 10 Tf (STAY) Tj /F1 10 Tf (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 294.0236 cm
+q
+BT 1 0 0 1 0 26 Tm -0.016328 Tw 12 TL /F1 10 Tf 0 0 0 rg (Some players recommends that if the dealer face card is anywhere from 2 to 16. The rule of the BlackJack) Tj T* 0 Tw .97683 Tw (game states that if the dealer card value is less than 17 they must ) Tj /F2 10 Tf (HIT) Tj /F1 10 Tf (. Therefore the probability of the) Tj T* 0 Tw (dealer going over 21 if the dealer's hand has a 2 to 6 face card is very high.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 261.0236 cm
+q
+BT 1 0 0 1 0 3.5 Tm 21 TL /F2 17.5 Tf 0 0 0 rg (Disclaimer) Tj T* ET
+Q
+Q
+q
+1 0 0 1 62.69291 243.0236 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F1 10 Tf 12 TL (The illustration of playing card is only for fun and not intent to show a person how to gamble.) Tj T* ET
+Q
+Q
+ 
+endstream
+endobj
+43 0 obj
+<<
+/Nums [ 0 44 0 R 1 45 0 R ]
+>>
+endobj
+44 0 obj
+<<
+/S /D /St 1
+>>
+endobj
+45 0 obj
+<<
+/S /D /St 2
+>>
+endobj
+xref
+0 46
+0000000000 65535 f 
+0000000073 00000 n 
+0000000125 00000 n 
+0000000232 00000 n 
+0000000344 00000 n 
+0000000512 00000 n 
+0000000680 00000 n 
+0000000848 00000 n 
+0000001016 00000 n 
+0000001184 00000 n 
+0000001352 00000 n 
+0000001521 00000 n 
+0000001690 00000 n 
+0000001859 00000 n 
+0000002028 00000 n 
+0000002197 00000 n 
+0000002366 00000 n 
+0000002535 00000 n 
+0000002704 00000 n 
+0000002873 00000 n 
+0000003042 00000 n 
+0000003211 00000 n 
+0000003380 00000 n 
+0000003549 00000 n 
+0000003718 00000 n 
+0000003834 00000 n 
+0000004189 00000 n 
+0000004395 00000 n 
+0000004501 00000 n 
+0000004783 00000 n 
+0000004858 00000 n 
+0000004968 00000 n 
+0000005101 00000 n 
+0000005230 00000 n 
+0000005356 00000 n 
+0000005527 00000 n 
+0000005635 00000 n 
+0000005743 00000 n 
+0000005869 00000 n 
+0000006001 00000 n 
+0000006113 00000 n 
+0000006181 00000 n 
+0000013306 00000 n 
+0000018096 00000 n 
+0000018146 00000 n 
+0000018180 00000 n 
+trailer
+<<
+/ID 
+[<ad1d0f0f2b5f56364a5783ef55e1ada2><ad1d0f0f2b5f56364a5783ef55e1ada2>]
+% ReportLab generated PDF document -- digest (http://www.reportlab.com)
+
+/Info 28 0 R
+/Root 27 0 R
+/Size 46
+>>
+startxref
+18214
+%%EOF
